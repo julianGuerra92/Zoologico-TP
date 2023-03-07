@@ -1,4 +1,4 @@
-package zoologico;
+package zoologico.modelos;
 
 public class AnimalSalvaje extends Animal {
 
@@ -22,6 +22,6 @@ public class AnimalSalvaje extends Animal {
 
     @Override
     public String toString() {
-        return "zoologico.AnimalSalvaje{" + "dangerLevel='" + dangerLevel + '\'' + '}';
+        return "zoologico.modelos.AnimalSalvaje{" + "dangerLevel='" + dangerLevel + '\'' + '}';
     }
 }

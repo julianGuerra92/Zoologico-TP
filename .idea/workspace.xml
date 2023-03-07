@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a15a303-b894-454d-84be-9a8e002d0919" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoologico/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoologico/AnimalDomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoologico/AnimalSalvaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoologico/DepartamentoLogistica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zoologico/zoologico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zoologico.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/AnimalDomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/AnimalDomestico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/AnimalSalvaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/AnimalSalvaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/DepartamentoLogistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/DepartamentoLogistica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/app/zoologico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Julián Rodríguez/Documents/Documentos_Universidad/01_Tecnicas_Programacion/zoologico",
+    "last_opened_file_path": "C:/Users/Julián Rodríguez/Documents/Documentos_Universidad/01_Tecnicas_Programacion/ejercicio-clase",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +63,8 @@
       <updated>1677540941991</updated>
       <workItem from="1677540943240" duration="3473000" />
       <workItem from="1677625283910" duration="1289000" />
-      <workItem from="1678031837405" duration="3475000" />
+      <workItem from="1678031837405" duration="4889000" />
+      <workItem from="1678077147171" duration="6649000" />
     </task>
     <servers />
   </component>

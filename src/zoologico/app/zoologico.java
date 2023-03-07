@@ -1,4 +1,6 @@
-package zoologico;
+package zoologico.app;
+
+import zoologico.modelos.DepartamentoLogistica;
 
 public class zoologico {
     public static void main(String[] args) {
@@ -10,7 +12,7 @@ public class zoologico {
 /*
 * Un zoológico famoso nos ha contratado para ayudarle en la administración del dinero y nos ha solicitado lo siguiente:
 *
-* 1. Tener clase zoologico.Animal.
+* 1. Tener clase zoologico.modelos.Animal.
 * 2. Tener clase AnimalesSalvajes.
 * 3. Tener clase AnimalesDomesticos.
 * 4. Tener clase Planes (Plan experiencia salvaje, plan alimentar pollos, plan amistoso)
@@ -29,5 +31,8 @@ public class zoologico {
 *  - Sistema de puntos
 *  - Acuario
 *  - etc.
-*
+*Herencia
+Asociación: Relación más debil (Toda relación de entrada es de asociación)
+Agregación
+Composición: No puede vivir sin
 */

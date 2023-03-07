@@ -1,4 +1,4 @@
-package zoologico;
+package zoologico.modelos;
 
 public class Animal {
 
@@ -31,6 +31,6 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "zoologico.Animal{" + "id=" + id + ", name='" + name + '\'' + '}';
+        return "zoologico.modelos.Animal{" + "id=" + id + ", name='" + name + '\'' + '}';
     }
 }
