@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1a15a303-b894-454d-84be-9a8e002d0919" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/AnimalDomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/AnimalDomestico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/AnimalSalvaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/AnimalSalvaje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/DepartamentoLogistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/DepartamentoLogistica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zoologico/zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/app/zoologico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Julián Rodríguez/Documents/Documentos_Universidad/01_Tecnicas_Programacion/ejercicio-clase",
+    "last_opened_file_path": "C:/Users/Julián Rodríguez/IdeaProjects/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +60,9 @@
       <workItem from="1677625283910" duration="1289000" />
       <workItem from="1678031837405" duration="4889000" />
       <workItem from="1678077147171" duration="6649000" />
+      <workItem from="1678161195290" duration="65000" />
+      <workItem from="1678230394523" duration="1866000" />
+      <workItem from="1678285428694" duration="60000" />
     </task>
     <servers />
   </component>
