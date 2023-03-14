@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a15a303-b894-454d-84be-9a8e002d0919" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zoologico/modelos/AdoptionAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoologico/modelos/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoologico/modelos/Plans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoologico/modelos/SalesDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoologico/modelos/SalesInvoice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/activiades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/app/zoologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/app/Zoologico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/modelos/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/modelos/AnimalDomestico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/DomesticAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/modelos/AnimalSalvaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/WildAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zoologico/modelos/DepartamentoLogistica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoologico/modelos/LogisticDepartment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -33,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Julián Rodríguez/IdeaProjects/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.JavaFX",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Julián Rodríguez/Dropbox/Documentos Universidad/01-Técnicas de Programación/ejercicios_clase/ejercicio_listas&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +75,9 @@
       <workItem from="1678161195290" duration="65000" />
       <workItem from="1678230394523" duration="1866000" />
       <workItem from="1678285428694" duration="60000" />
+      <workItem from="1678286232903" duration="4202000" />
+      <workItem from="1678368956449" duration="17674000" />
+      <workItem from="1678743820085" duration="6789000" />
     </task>
     <servers />
   </component>
